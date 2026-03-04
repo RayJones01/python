@@ -6,5 +6,5 @@ This repo contains a collection of my personal pet projects (programs and script
 def greet(planet):
   return f"Hello, {planet}!"
 
-print(greet(world))
+print(greet("world"))
 ```
