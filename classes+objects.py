@@ -20,6 +20,11 @@ class Person:
 
 # Create an object
 p1 = Person("Ray", 42)
+p2 = Person("Faith", 25)
 
 # Call the greet method
 p1.greet()
+p2.greet()
+
+# Bonus way of doing it :^) 
+# Person.greet(p1)
